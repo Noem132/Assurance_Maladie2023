@@ -1,0 +1,5 @@
+git clone <https://github.com/Noem132/Assurance_Maladie2023.git>
+cd <NTOT2023_01>
+cp C:\Users\noemi\Documents\Python\NTOT2023_01.CSV .
+git add NTOT2023_01.CSV
+git push origin <nom-de-votre-branche>
